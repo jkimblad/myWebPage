@@ -1,7 +1,7 @@
 const introduce = {
   name: 'PER JULIAN HEDÉN',
   image: 'me',
-  jobTitle: 'Associate Developer, M.Sc',
+  jobTitle: 'Senior Associate, Developer, M.Sc',
   workPlace: 'Digital Edge',
   location: 'Stockholm, SE',
   summary: `I am a driven developer, who is curious about most IT
